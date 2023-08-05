@@ -1,3 +1,5 @@
+
+<img align="right" alt="Coding" width="400" src="https://www.canva.com/design/DAFqs0sirTw/3LLpQdhc7ACAKkfKcr_3sg/view?utm_content=DAFqs0sirTw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
 <h1 align="center">Hi 👋, I'm Durgesh Srivastava</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
