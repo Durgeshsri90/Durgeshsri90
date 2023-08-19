@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 💬 Ask me about **React**
-
 - 📫 How to reach me **crindia98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
